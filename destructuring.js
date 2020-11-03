@@ -40,7 +40,7 @@ const tvOptions = {
 
 // opdracht 4: destructure name en adress uit de return value van deze functie en log ze in de console
 
-function getDetails() {
+function getCompanyDetails() {
   return {
     name: 'Novi Hogeschool',
     adress: 'Zonnebaan 9, Utrecht',

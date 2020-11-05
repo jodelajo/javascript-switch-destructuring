@@ -3,8 +3,8 @@ Deze opdracht bestaat uit allemaal kleine opdrachtjes om alles wat je zojuist he
 
 Dit project bevat de volgende bestanden:
 
-desctructuring.js
-switch.js
+* `desctructuring.js`
+* `switch.js`
 
 Als je de code wil runnen kun je dit doen door het volgende in de terminal in te voeren:
 

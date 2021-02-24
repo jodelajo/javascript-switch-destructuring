@@ -38,7 +38,15 @@ const tvOptions = {
   },
 };
 
-// opdracht 4: destructure name en adress uit de return value van deze functie en log ze in de console
+// Opdracht 4: destructure beide waardes uit deze array en log ze in de console
+
+const connectivity = ['wifi', 'bluetooth'];
+
+// Opdracht 5: destructure de eerste en derde waarde uit deze array en log ze in de console
+
+const tvSizes = [41, 43, 46, 56, 65];
+
+// opdracht 6: destructure name en adress uit de return value van deze functie en log ze in de console
 
 function getCompanyDetails() {
   return {
@@ -47,7 +55,7 @@ function getCompanyDetails() {
   }
 }
 
-// opdracht 5: destructure beide zinnetjes uit de return value van deze functie en log ze in de console
+// opdracht 7: destructure beide zinnetjes uit de return value van deze functie en log ze in de console. Let op: de functie verwacht argumenten bij het aanroepen!
 
 function getDetails(name, age) {
   return [`Your name is ${name}`, `You are ${age} years old`];
